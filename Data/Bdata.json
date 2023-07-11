@@ -1,0 +1,14 @@
+[
+    { 
+        "city": "Jaipur",
+        "reach": "100"
+    },
+    { 
+        "city": "Delhi",
+        "reach": "50"
+    },
+    {
+        "city": "Mumbai",
+        "reach": "70"
+    }
+]
